@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaraboinaCharan
-- 👀 I’m interested in coding and AI-ML
-- 🌱 I’m currently learning python,java,DS using C
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning full stack and Android 
+- 💞️ I’m looking to collaborate on Android and web 
 - 📫 How to reach me email id :207R1a6632@cmrtc.ac.in
 Instagram:charanyadav_6
 
