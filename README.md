@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MaraboinaCharan
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning full stack and Android 
-- 💞️ I’m looking to collaborate on Android and web 
+- 👋 Hi, I’m @Charan
+- 👀 I’m Working as an SWE Intern@Divami  
+- 💞️ I’m looking to collaborate on Full stack Web and Android 
 - 📫 How to reach me email id :207R1a6632@cmrtc.ac.in
 Instagram:charanyadav_6
 
